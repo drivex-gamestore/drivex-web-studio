@@ -3,4 +3,4 @@ nohup: ignoring input
 [32m√[39m Checking configuration files...
 - Starting dev server
 [32m√[39m Starting dev server
-Sanity Studio using vite@8.3.0 ready in 368ms and running at http://0.0.0.0:3333/
+Sanity Studio using vite@8.3.0 ready in 370ms and running at http://0.0.0.0:3333/
