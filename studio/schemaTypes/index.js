@@ -5,6 +5,7 @@ import linkField from './linkField'
 
 // Object Schemas
 import availability from './object/availability'
+import asciiArtFields from './object/asciiArtFields'
 import link from './object/link'
 import richText from './object/richText'
 
@@ -16,6 +17,7 @@ export const schemaTypes = [
 
   // Object types
   availability,
+  asciiArtFields,
   link,
   richText,
 ]
