@@ -3,17 +3,7 @@ export default {
   title: "Availability",
   type: "object",
   fields: [
-    {
-      name: "isAvailable",
-      title: "Is Available",
-      type: "boolean",
-      initialValue: true,
-    },
-    {
-      name: "text",
-      title: "Availability Text",
-      type: "text",
-      rows: 2,
-    },
+    { name: "isAvailable", title: "Is available", type: "boolean" },
+    { name: "text", title: "Text", type: "text", rows: 2 },
   ],
 };

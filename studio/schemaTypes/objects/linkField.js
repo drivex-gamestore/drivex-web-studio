@@ -1,5 +1,5 @@
 export default {
-  name: "link",
+  name: "linkField",
   title: "Link",
   type: "object",
   fields: [
@@ -19,6 +19,7 @@ export default {
     },
     { name: "text", title: "Text", type: "string" },
     { name: "href", title: "URL", type: "string" },
+    { name: "email", title: "Email", type: "string" },
     { name: "openInNewTab", title: "Open in new tab", type: "boolean" },
     { name: "canDownload", title: "Can download", type: "boolean" },
     { name: "modalId", title: "Modal ID", type: "string" },

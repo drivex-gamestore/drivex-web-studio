@@ -1,6 +1,6 @@
 export default {
   name: "richText",
-  title: "Rich Text",
+  title: "Rich text",
   type: "array",
   of: [
     {
@@ -12,13 +12,7 @@ export default {
           { title: "Strong", value: "strong" },
           { title: "Emphasis", value: "em" },
         ],
-        annotations: [
-          {
-            name: "linkField", 
-            title: "Link",
-            type: "link", 
-          },
-        ],
+        annotations: [{ type: "linkField" }],
       },
     },
   ],

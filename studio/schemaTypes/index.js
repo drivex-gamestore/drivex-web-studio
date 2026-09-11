@@ -6,6 +6,12 @@ import availability from './objects/availability'
 import link from './objects/link'
 import richText from './objects/richText'
 import customImage from './objects/customImage'
+import ctaButton from './objects/ctaButton'
+import contact from './objects/contact'
+import logoImage from './objects/logoImage'
+import media from './objects/media'
+import svgItem from './objects/svgItem'
+import textItem from './objects/textItem'
 
 import homePage from "./components/homePage";
 import heroSection from "./documents/heroSection";
@@ -28,6 +34,12 @@ export const schemaTypes = [
   link,
   richText,
   customImage,
+  ctaButton,
+  contact,
+  logoImage,
+  media,
+  svgItem,
+  textItem,
    
   // home page
   homePage,
