@@ -2,5 +2,7 @@ nohup: ignoring input
 [34mi[39m Running with auto-updates enabled
 [32m√[39m Checking configuration files...
 - Starting dev server
+4:25:14 PM [vite] (client) Re-optimizing dependencies because lockfile has changed
 [32m√[39m Starting dev server
-Sanity Studio using vite@8.3.0 ready in 370ms and running at http://0.0.0.0:3333/
+Sanity Studio using vite@8.3.0 ready in 509ms and running at http://0.0.0.0:3333/
+4:25:16 PM [vite] (client) [optimizer] bundling dependencies...

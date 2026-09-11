@@ -12,6 +12,10 @@ import logoImage from './objects/logoImage'
 import media from './objects/media'
 import svgItem from './objects/svgItem'
 import textItem from './objects/textItem'
+import headline from './objects/headline'
+
+import mediaSection from "./projects/mediaSection";
+import project from './documents/project'
 
 import homePage from "./components/homePage";
 import heroSection from "./documents/heroSection";
@@ -21,7 +25,6 @@ import animatedListSection from "./documents/animatedListSection";
 import indexedGridSection from "./documents/indexedGridSection";
 import accordionSection from "./documents/accordionSection";
 import contentBlockSection from "./documents/contentBlockSection";
-
 
 export const schemaTypes = [
   // Document types
@@ -40,7 +43,11 @@ export const schemaTypes = [
   media,
   svgItem,
   textItem,
-   
+  headline,
+
+  // Portfolio
+  project,
+
   // home page
   homePage,
   heroSection,
@@ -50,4 +57,6 @@ export const schemaTypes = [
   indexedGridSection,
   accordionSection,
   contentBlockSection,
+
+  mediaSection,
 ]
