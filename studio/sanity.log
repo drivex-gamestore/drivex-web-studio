@@ -1,7 +1,6 @@
 nohup: ignoring input
-npm warn exec The following package was not found and will be installed: sanity@6.13.1
-    Error: CLI config cannot be loaded
-    Caused by: Error: Cannot find module 'sanity/cli'
-    Require stack:
-    - /home/ec2-user/drivex-web-studio/studio/sanity.cli.js
-    Code: MODULE_NOT_FOUND
+[34mi[39m Running with auto-updates enabled
+[32m√[39m Checking configuration files...
+- Starting dev server
+[32m√[39m Starting dev server
+Sanity Studio using vite@8.3.0 ready in 368ms and running at http://0.0.0.0:3333/

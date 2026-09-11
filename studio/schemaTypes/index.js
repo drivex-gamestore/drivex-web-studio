@@ -1,13 +1,12 @@
-// Document & Component Schemas
 import siteSettings from './siteSettings'
 import Footer from './components/Footer'
 import linkField from './linkField'
 
 // Object Schemas
-import availability from './object/availability'
-import asciiArtFields from './object/asciiArtFields'
-import link from './object/link'
-import richText from './object/richText'
+import availability from './objects/availability'
+import link from './objects/link'
+import richText from './objects/richText'
+import customImage from './objects/customImage'
 
 export const schemaTypes = [
   // Document types
@@ -17,7 +16,7 @@ export const schemaTypes = [
 
   // Object types
   availability,
-  asciiArtFields,
   link,
   richText,
+  customImage,
 ]
