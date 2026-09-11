@@ -1,0 +1,288 @@
+{
+  "_id": "footer",
+  "_type": "footer",
+  "navigation": {
+    "_type": "navigation",
+    "title": "Navigation",
+    "availability": {
+      "_type": "availability",
+      "isAvailable": true,
+      "text": "Accepting Projects.\nJoin the waitlist."
+    },
+    "items": [
+      {
+        "_key": "68eca58ab3f3",
+        "_type": "navItem",
+        "text": "Home",
+        "link": {
+          "_type": "link",
+          "canDownload": false,
+          "href": "/",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "Homepage",
+          "type": "internal"
+        }
+      },
+      {
+        "_key": "26f279c6b831",
+        "_type": "navItem",
+        "text": "Work",
+        "link": {
+          "_type": "link",
+          "canDownload": false,
+          "href": "/work",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "Work",
+          "type": "internal"
+        }
+      },
+      {
+        "_key": "89b8d57ad88e",
+        "_type": "navItem",
+        "text": "Pricing",
+        "link": {
+          "_type": "link",
+          "canDownload": false,
+          "href": "/pricing",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "Pricing",
+          "type": "internal"
+        }
+      },
+      {
+        "_key": "9bd6b818d668",
+        "_type": "navItem",
+        "text": "About",
+        "link": {
+          "_type": "link",
+          "canDownload": false,
+          "href": "/about",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "About",
+          "type": "internal"
+        }
+      },
+      {
+        "_key": "8bb220d472dd",
+        "_type": "navItem",
+        "text": "Contact",
+        "link": {
+          "_type": "link",
+          "canDownload": false,
+          "href": "/contact",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "Contact",
+          "type": "internal"
+        }
+      }
+    ]
+  },
+  "contactInformation": [
+    {
+      "_key": "ae33ee24c555",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e674aa635238",
+          "_type": "span",
+          "marks": [
+            "aec7342af8ef"
+          ],
+          "text": "contact@good-fella.com"
+        },
+        {
+          "_key": "2e3d5e1a072d",
+          "_type": "span",
+          "marks": [],
+          "text": "\n"
+        },
+        {
+          "_key": "a0f5ef689ccd",
+          "_type": "span",
+          "marks": [
+            "f265b947f9d1"
+          ],
+          "text": "julian@good-fella.com"
+        },
+        {
+          "_key": "02395e2b77b7",
+          "_type": "span",
+          "marks": [],
+          "text": "\n"
+        },
+        {
+          "_key": "ca9e9e65313f",
+          "_type": "span",
+          "marks": [
+            "7e768c5ad27c"
+          ],
+          "text": "adrian@good-fella.com"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "aec7342af8ef",
+          "_type": "linkField",
+          "canDownload": false,
+          "email": "contact@good-fella.com",
+          "href": "mailto:contact@good-fella.com",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "contact@good-fella.com",
+          "type": "email"
+        },
+        {
+          "_key": "7e768c5ad27c",
+          "_type": "linkField",
+          "canDownload": false,
+          "email": "adrian@good-fella.com",
+          "href": "mailto:adrian@good-fella.com",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "adrian@good-fella.com",
+          "type": "email"
+        },
+        {
+          "_key": "f265b947f9d1",
+          "_type": "linkField",
+          "canDownload": false,
+          "email": "julian@good-fella.com",
+          "href": "mailto:julian@good-fella.com",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "julian@good-fella.com",
+          "type": "email"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "ed7e948aa73b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8142a0e12dd9",
+          "_type": "span",
+          "marks": [
+            "5ff12bb71768"
+          ],
+          "text": "Privacy Policy"
+        },
+        {
+          "_key": "c1764e6f4a81",
+          "_type": "span",
+          "marks": [],
+          "text": "\n"
+        },
+        {
+          "_key": "5f6f69e6908a",
+          "_type": "span",
+          "marks": [
+            "de04f6b3c685"
+          ],
+          "text": "Legal Notice"
+        }
+      ],
+"markDefs": [
+  {
+    "_key": "de04f6b3c685",
+    "_type": "linkField",
+    "canDownload": false,
+    "href": "/legal-notice",
+    "modalId": null,
+    "openInNewTab": false,
+    "text": "Legal Notice",
+    "type": "internal"
+  },
+  {
+    "_key": "5ff12bb71768",
+    "_type": "linkField",
+    "canDownload": false,
+    "href": "/privacy-policy",
+    "modalId": null,
+    "openInNewTab": false,
+    "text": "Privacy Policy",
+    "type": "internal"
+  }
+],
+      "style": "normal"
+    }
+  ],
+  "copyrightNotice": [
+    {
+      "_key": "2490eadfbda7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5a3c3fec3480",
+          "_type": "span",
+          "marks": [],
+          "text": "Good Fella Studio GmbH.\nLet the Fellas handle it."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "asciiImageLeft": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ff59cc9dcebb668166cbe5038c2891c35af1d35d-807x1117-png"
+    }
+  },
+  "asciiDepthMapLeft": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2c692356b830effa7e0f8cb95019daacb25a7de6-807x1117-png"
+    }
+  },
+  "asciiColorLeft": "#ff6b4a",
+  "asciiColorDarkLeft": "#1a0a2e",
+  "asciiCellSizeLeft": 18,
+  "asciiParallaxIntensityLeft": 0.1,
+  "asciiRevealOriginXLeft": 0,
+  "asciiRevealOriginYLeft": 0.5,
+  "asciiMobileFallbackLeft": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b7646cfd25027c99921a3559fd1855829eb6e449-676x1117-png"
+    }
+  },
+  "asciiImage": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7a4424f7f885456738b40532779944e1b4caedcf-829x1117-png"
+    }
+  },
+  "asciiDepthMap": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6b83e0dd7df30a289126532e1e1ee2e9b9b2a887-829x1117-png"
+    }
+  },
+  "asciiColor": "#ff6b4a",
+  "asciiColorDark": "#1a0a2e",
+  "asciiCellSize": 18,
+  "asciiParallaxIntensity": 0.1,
+  "asciiRevealOriginX": 1,
+  "asciiRevealOriginY": 0,
+  "asciiMobileFallback": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6b83e0dd7df30a289126532e1e1ee2e9b9b2a887-829x1117-png"
+    }
+  },
+  "showWatermark": true,
+  "spotsRemaining": 3
+}

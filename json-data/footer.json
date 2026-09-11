@@ -1,0 +1,646 @@
+
+
+{
+"navigation": {
+"availability": {
+"isAvailable": true,
+"text": "Accepting Projects.\nJoin the waitlist."
+},
+"items": [
+{
+"_key": "68eca58ab3f3",
+"link": {
+"canDownload": false,
+"href": "/",
+"modalId": null,
+"openInNewTab": false,
+"text": "Homepage",
+"type": "internal"
+},
+"text": "Home"
+},
+{
+"_key": "26f279c6b831",
+"link": {
+"canDownload": false,
+"href": "/work",
+"modalId": null,
+"openInNewTab": false,
+"text": "Work",
+"type": "internal"
+},
+"text": "Work"
+},
+{
+"_key": "89b8d57ad88e",
+"link": {
+"canDownload": false,
+"href": "/pricing",
+"modalId": null,
+"openInNewTab": false,
+"text": "Pricing",
+"type": "internal"
+},
+"text": "Pricing"
+},
+{
+"_key": "9bd6b818d668",
+"link": {
+"canDownload": false,
+"href": "/about",
+"modalId": null,
+"openInNewTab": false,
+"text": "About",
+"type": "internal"
+},
+"text": "About"
+},
+{
+"_key": "8bb220d472dd",
+"link": {
+"canDownload": false,
+"href": "/contact",
+"modalId": null,
+"openInNewTab": false,
+"text": "Contact",
+"type": "internal"
+},
+"text": "Contact"
+}
+],
+"title": "Navigation"
+},
+"contactInformation": [
+{
+"_key": "ae33ee24c555",
+"_type": "block",
+"children": [
+{
+"_key": "e674aa635238",
+"_type": "span",
+"marks": [
+"aec7342af8ef"
+],
+"text": "contact@good-fella.com"
+},
+{
+"_key": "2e3d5e1a072d",
+"_type": "span",
+"marks": [],
+"text": "\n"
+},
+{
+"_key": "a0f5ef689ccd",
+"_type": "span",
+"marks": [
+"f265b947f9d1"
+],
+"text": "julian@good-fella.com"
+},
+{
+"_key": "02395e2b77b7",
+"_type": "span",
+"marks": [],
+"text": "\n"
+},
+{
+"_key": "ca9e9e65313f",
+"_type": "span",
+"marks": [
+"7e768c5ad27c"
+],
+"text": "adrian@good-fella.com"
+}
+],
+"markDefs": [
+{
+"_key": "aec7342af8ef",
+"_type": "linkField",
+"canDownload": false,
+"email": "contact@good-fella.com",
+"href": "mailto:contact@good-fella.com",
+"modalId": null,
+"openInNewTab": false,
+"text": "contact@good-fella.com",
+"type": "email"
+},
+{
+"_key": "7e768c5ad27c",
+"_type": "linkField",
+"canDownload": false,
+"email": "adrian@good-fella.com",
+"href": "mailto:adrian@good-fella.com",
+"modalId": null,
+"openInNewTab": false,
+"text": "adrian@good-fella.com",
+"type": "email"
+},
+{
+"_key": "f265b947f9d1",
+"_type": "linkField",
+"canDownload": false,
+"email": "julian@good-fella.com",
+"href": "mailto:julian@good-fella.com",
+"modalId": null,
+"openInNewTab": false,
+"text": "julian@good-fella.com",
+"type": "email"
+}
+],
+"style": "normal"
+},
+{
+"_key": "ed7e948aa73b",
+"_type": "block",
+"children": [
+{
+"_key": "8142a0e12dd9",
+"_type": "span",
+"marks": [
+"5ff12bb71768"
+],
+"text": "Privacy Policy"
+},
+{
+"_key": "c1764e6f4a81",
+"_type": "span",
+"marks": [],
+"text": "\n"
+},
+{
+"_key": "5f6f69e6908a",
+"_type": "span",
+"marks": [
+"de04f6b3c685"
+],
+"text": "Legal Notice"
+}
+],
+"markDefs": [
+{
+"_key": "de04f6b3c685",
+"_type": "linkField",
+"canDownload": false,
+"href": "/legal-notice",
+"internal": {
+"link": {
+"_ref": "d85488b6-2abe-4681-bac0-b42984e7b9ec",
+"_type": "reference"
+}
+},
+"modalId": null,
+"openInNewTab": false,
+"text": "Legal Notice",
+"type": "internal"
+},
+{
+"_key": "5ff12bb71768",
+"_type": "linkField",
+"canDownload": false,
+"href": "/privacy-policy",
+"internal": {
+"link": {
+"_ref": "95d2b2ff-a295-4652-bd16-ee049c210117",
+"_type": "reference"
+}
+},
+"modalId": null,
+"openInNewTab": false,
+"text": "Privacy Policy",
+"type": "internal"
+}
+],
+"style": "normal"
+}
+],
+"copyrightNotice": [
+{
+"_key": "2490eadfbda7",
+"_type": "block",
+"children": [
+{
+"_key": "5a3c3fec3480",
+"_type": "span",
+"marks": [],
+"text": "Good Fella Studio GmbH.\nLet the Fellas handle it."
+}
+],
+"markDefs": [],
+"style": "normal"
+}
+],
+"asciiImageLeft": {
+"_id": "image-22515e3d37993416866dbd2f773d92bae460ab53-807x1117-heif",
+"_rev": "FcPKz2SSKblcPTQRz86ldh",
+"altText": null,
+"crop": null,
+"description": null,
+"dimensions": {
+"_type": "sanity.imageDimensions",
+"aspectRatio": 0.7224709042076992,
+"height": 1117,
+"width": 807
+},
+"hotspot": null,
+"lqip": "$2d",
+"title": null
+},
+"asciiDepthMapLeft": {
+"_id": "image-df12967d769f470af1a2299bb535110992f3f78f-807x1117-heif",
+"_rev": "FcPKz2SSKblcPTQRz86lOL",
+"altText": null,
+"crop": null,
+"description": null,
+"dimensions": {
+"_type": "sanity.imageDimensions",
+"aspectRatio": 0.7224709042076992,
+"height": 1117,
+"width": 807
+},
+"hotspot": null,
+"lqip": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABQDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAUGBgcCBAj/xAAkEAACAgEDAwUBAAAAAAAAAAABAgMEAAURIQYSFBMiMVFhQf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCh6um3LTHxas0oHJ7UJxJIZq7ds0TxsP4y7Z1f19r3TPSEPjU4q8lg8ejXA4H6cgUusaD1HXlUwRlgu7q6gED8OBSSS+3DJTq/TdFbreHcSKEjcJIeRhgZXK0jOWkLMx+Sx3OaXoOhPYSu/HByXX40+saXRd/jAZHru53Ylj9nDHsRJ9YYH//Z",
+"title": null
+},
+"asciiColorLeft": "#ff6b4a",
+"asciiColorDarkLeft": "#1a0a2e",
+"asciiCellSizeLeft": 18,
+"asciiParallaxIntensityLeft": 0.1,
+"asciiRevealOriginXLeft": 0,
+"asciiRevealOriginYLeft": 0.5,
+"asciiMobileFallbackLeft": {
+"_id": "image-d33ab9a7911e770e091e67f4143bff604d0efef3-676x1117-heif",
+"_rev": "YTJXK0pSg0Faj6IAyiIDds",
+"altText": "Ascii Art of the Left Hand of the Creatin of Adam by Michelangelo",
+"crop": null,
+"description": "Ascii Art of the Left Hand of the Creatin of Adam by Michelangelo",
+"dimensions": {
+"_type": "sanity.imageDimensions",
+"aspectRatio": 0.6051924798567592,
+"height": 1117,
+"width": 676
+},
+"hotspot": null,
+"lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAhCAYAAADZPosTAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nO1TPUvDUBRNqk1rWltttX78BAeXLm5v0OjDPmMyXBCrBBzeIHRycLyTtaW0GixCJnf/ZOXEgPiRgB+LkAOHvJC8c8899z3DyJHjT2D+WoGZC1q3i0xkgVgLIeaJaO7bBSKti1eOU7k97Sz3z73mbaez3JOydkmiqrWyORBl3W4XOSnAhlHILDK8cBchdkNy9ebkaI19p8VKrTDtN8Ax7TdQ5Hpvr85CVMe0sxDpdjFVlImqcDhynArWHBwvQXzk+y1w4h9sDF13k+lwHe8PntdkKWuIZvaVKFpBhmgFLYU9WYLjR99vTYnWITjx/Q2IhUSrj2evz7DbrT0FQTne/xpD2oCMwsjZrvS93SZEpomzQdwyVQdEdbgcEzXuguOlKboSojzjdFGTacsauu5i3/Oa9ydHayAypC2yMKBQyhKyhFjYlTXwKRDlVKf4EGGyWtl3SaZwxErZiCXJznwmmnsmskZnTiXSyk6GlQozPiZEVqSUPdBUhxNGbu+dmMixJ2UJzrME3zZgaDj0Stkxsf7QHqMrrTMdpjqmmManWzT7ybWdJcI/upYZiIeS9UOOHDn+N14ARvycq9269DEAAAAASUVORK5CYII=",
+"title": "Ascii Art of the Left Hand of the Creatin of Adam by Michelangelo"
+},
+"asciiImage": {
+"_id": "image-5867400cb21bbb7ec08f7f5e67bf65431f133133-829x1117-heif",
+"_rev": "VV0rf666zhWWt8X3te16WM",
+"altText": null,
+"crop": null,
+"description": null,
+"dimensions": {
+"_type": "sanity.imageDimensions",
+"aspectRatio": 0.7421665174574754,
+"height": 1117,
+"width": 829
+},
+"hotspot": null,
+"lqip": "$2e",
+"title": null
+},
+"asciiDepthMap": {
+"_id": "image-ef0173556ba18a86b89cb3ac0129cceaf3934575-829x1117-heif",
+"_rev": "FcPKz2SSKblcPTQRz86lMQ",
+"altText": null,
+"crop": null,
+"description": null,
+"dimensions": {
+"_type": "sanity.imageDimensions",
+"aspectRatio": 0.7421665174574754,
+"height": 1117,
+"width": 829
+},
+"hotspot": null,
+"lqip": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbABQDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAUGBwgBAgT/xAAmEAABAwMCBQUAAAAAAAAAAAABAAIDBAURBhIHEyExURQiMnFy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGbXyYJSLUy5cpQtGjbVqGfkUd6MkoG5wbEcAfadlNwn0zTND6+qlkx33PDQSgr5vKFZAcPtID4UzHN88xCCKtJX+fT8lY6CPc6ePYOvY+VmsuFyu0xM9RKY85DN3QLgga3wl21sblvQINKegrDEMTSgfooT2o4menb7QhB//9k=",
+"title": null
+},
+"asciiColor": "#ff6b4a",
+"asciiColorDark": "#1a0a2e",
+"asciiCellSize": 18,
+"asciiParallaxIntensity": 0.1,
+"asciiRevealOriginX": 1,
+"asciiRevealOriginY": 0,
+"asciiMobileFallback": {
+"_id": "image-a738436d9d46191ce5f661b44414d8ec10d24ec5-682x1117-heif",
+"_rev": "YTJXK0pSg0Faj6IAyiIGSk",
+"altText": "Ascii Art of the Right Hand of the Creatin of Adam by Michelangelo",
+"crop": null,
+"description": "Ascii Art of the Right Hand of the Creatin of Adam by Michelangelo",
+"dimensions": {
+"_type": "sanity.imageDimensions",
+"aspectRatio": 0.6105640107430618,
+"height": 1117,
+"width": 682
+},
+"hotspot": null,
+"lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAhCAYAAADZPosTAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAB3ElEQVR4nO1TTUvjUBR9bU36kX5Oqx06/6DbbFwI2UyGQF7TdnEgo5GAi+y6EH/AXXZKLTa0CGEEGZf+SeW+kCIzI1TdSQ4ckkdyz7333PuEyJEjxydA4UPRT0IUAJTIsg4S09TimVPeO5iIihz4COgvWF14XiM+O2vejMft5Kfs7TJlARkfgRJTnQH9IQiMBGhtJpMu81rK3u10erT2R/0YzuFyOj367Y/6gjDU70OrwtmWQWBsgfriwmvcqcxO8xe+t+au24mBwy3wdeN7A+Z6lAptzidd/k7jcXt+6nbEQ2Abdxdeg5/LwDYIVp1FVvjxhQNIyh6/r32/v/C8wQrut43nDebuSYekrFFoVfh5ZQcqVrAXSWRqWZvKYD7zzw5XiNbtaVohk9v8cz7pckckRJEZmaYGQI+dV4bCP7HolW0bLHgThu3YcZoJJ5Gydh+GbFHpr3UpcNx/V4Ez8fR4cixIQF1VjKGuhkT0b+Br4Mw8nJ2YlLUVUN3uRKHz7u29xCREMZ7NyqnRtkGWVVGUsnZ5fFx9l2AURdrMccpKaDjUFYG03dSn/a8YERXZw0ugGqbVHSRRpCnBt3iXQa1CWk2Fq3x5W94lmImyT4BQXqmr+dZWc+QQe+MZpri+a+bviKQAAAAASUVORK5CYII=",
+"title": "Ascii Art of the Right Hand of the Creatin of Adam by Michelangelo"
+},
+"showWatermark": true,
+"spotsRemaining": 3
+}
+
+
+
+{
+  "_id": "footer",
+  "_type": "footer",
+
+  "navigation": {
+    "_type": "navigation",
+    "title": "Navigation",
+    "availability": {
+      "_type": "availability",
+      "isAvailable": true,
+      "text": "Accepting Projects.\nJoin the waitlist."
+    },
+    "items": [
+      {
+        "_key": "68eca58ab3f3",
+        "_type": "navItem",
+        "text": "Home",
+        "link": {
+          "_type": "link",
+          "type": "internal",
+          "text": "Homepage",
+          "href": "/",
+          "openInNewTab": false,
+          "canDownload": false,
+          "modalId": null
+        }
+      },
+      {
+        "_key": "26f279c6b831",
+        "_type": "navItem",
+        "text": "Work",
+        "link": {
+          "_type": "link",
+          "type": "internal",
+          "text": "Work",
+          "href": "/work",
+          "openInNewTab": false,
+          "canDownload": false,
+          "modalId": null
+        }
+      },
+      {
+        "_key": "89b8d57ad88e",
+        "_type": "navItem",
+        "text": "Pricing",
+        "link": {
+          "_type": "link",
+          "type": "internal",
+          "text": "Pricing",
+          "href": "/pricing",
+          "openInNewTab": false,
+          "canDownload": false,
+          "modalId": null
+        }
+      },
+      {
+        "_key": "9bd6b818d668",
+        "_type": "navItem",
+        "text": "About",
+        "link": {
+          "_type": "link",
+          "type": "internal",
+          "text": "About",
+          "href": "/about",
+          "openInNewTab": false,
+          "canDownload": false,
+          "modalId": null
+        }
+      },
+      {
+        "_key": "8bb220d472dd",
+        "_type": "navItem",
+        "text": "Contact",
+        "link": {
+          "_type": "link",
+          "type": "internal",
+          "text": "Contact",
+          "href": "/contact",
+          "openInNewTab": false,
+          "canDownload": false,
+          "modalId": null
+        }
+      }
+    ]
+  },
+
+  "contactInformation": [
+    {
+      "_key": "ae33ee24c555",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e674aa635238",
+          "_type": "span",
+          "marks": ["aec7342af8ef"],
+          "text": "contact@drivexstore.shop"
+        },
+        {
+          "_key": "2e3d5e1a072d",
+          "_type": "span",
+          "marks": [],
+          "text": "\n"
+        },
+        {
+          "_key": "a0f5ef689ccd",
+          "_type": "span",
+          "marks": ["f265b947f9d1"],
+          "text": "admin@drivexstore.shop"
+        },
+        {
+          "_key": "02395e2b77b7",
+          "_type": "span",
+          "marks": [],
+          "text": "\n"
+        },
+        {
+          "_key": "ca9e9e65313f",
+          "_type": "span",
+          "marks": ["7e768c5ad27c"],
+          "text": "info@drivexstore.shop"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "aec7342af8ef",
+          "_type": "linkField",
+          "canDownload": false,
+          "email": "contact@drivexstore.shop",
+          "href": "mailto:contact@drivexstore.shop",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "contact@drivexstore.shop",
+          "type": "email"
+        },
+        {
+          "_key": "f265b947f9d1",
+          "_type": "linkField",
+          "canDownload": false,
+          "email": "admin@drivexstore.shop",
+          "href": "mailto:admin@drivexstore.shop",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "admin@drivexstore.shop",
+          "type": "email"
+        },
+        {
+          "_key": "7e768c5ad27c",
+          "_type": "linkField",
+          "canDownload": false,
+          "email": "info@drivexstore.shop",
+          "href": "mailto:info@drivexstore.shop",
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "info@drivexstore.shop",
+          "type": "email"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "ed7e948aa73b",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8142a0e12dd9",
+          "_type": "span",
+          "marks": ["5ff12bb71768"],
+          "text": "Privacy Policy"
+        },
+        {
+          "_key": "c1764e6f4a81",
+          "_type": "span",
+          "marks": [],
+          "text": "\n"
+        },
+        {
+          "_key": "5f6f69e6908a",
+          "_type": "span",
+          "marks": ["de04f6b3c685"],
+          "text": "Legal Notice"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "5ff12bb71768",
+          "_type": "linkField",
+          "canDownload": false,
+          "href": "/privacy-policy",
+          "internal": {
+            "link": {
+              "_ref": "95d2b2ff-a295-4652-bd16-ee049c210117",
+              "_type": "reference"
+            }
+          },
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "Privacy Policy",
+          "type": "internal"
+        },
+        {
+          "_key": "de04f6b3c685",
+          "_type": "linkField",
+          "canDownload": false,
+          "href": "/legal-notice",
+          "internal": {
+            "link": {
+              "_ref": "d85488b6-2abe-4681-bac0-b42984e7b9ec",
+              "_type": "reference"
+            }
+          },
+          "modalId": null,
+          "openInNewTab": false,
+          "text": "Legal Notice",
+          "type": "internal"
+        }
+      ],
+      "style": "normal"
+    }
+  ],
+
+  "copyrightNotice": [
+    {
+      "_key": "2490eadfbda7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "5a3c3fec3480",
+          "_type": "span",
+          "marks": [],
+          "text": "Drive X Studio.\nAll rights reserved."
+        }
+      ],
+      "markDefs": []
+    }
+  ],
+
+  "asciiImageLeft": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ff59cc9dcebb668166cbe5038c2891c35af1d35d-807x1117-png"
+    }
+  },
+
+  "asciiDepthMapLeft": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2c692356b830effa7e0f8cb95019daacb25a7de6-807x1117-png"
+    }
+  },
+
+  "asciiColorLeft": "#ff6b4a",
+  "asciiColorDarkLeft": "#1a0a2e",
+  "asciiCellSizeLeft": 18,
+  "asciiParallaxIntensityLeft": 0.1,
+  "asciiRevealOriginXLeft": 0,
+  "asciiRevealOriginYLeft": 0.5,
+
+  "asciiMobileFallbackLeft": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b7646cfd25027c99921a3559fd1855829eb6e449-676x1117-png"
+    }
+  },
+
+  "asciiImage": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7a4424f7f885456738b40532779944e1b4caedcf-829x1117-png"
+    }
+  },
+
+  "asciiDepthMap": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6b83e0dd7df30a289126532e1e1ee2e9b9b2a887-829x1117-png"
+    }
+  },
+
+  "asciiColor": "#ff6b4a",
+  "asciiColorDark": "#1a0a2e",
+  "asciiCellSize": 18,
+  "asciiParallaxIntensity": 0.1,
+  "asciiRevealOriginX": 1,
+  "asciiRevealOriginY": 0,
+
+  "asciiMobileFallback": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6b83e0dd7df30a289126532e1e1ee2e9b9b2a887-829x1117-png"
+    }
+  },
+
+  "showWatermark": true,
+  "spotsRemaining": 3
+}
